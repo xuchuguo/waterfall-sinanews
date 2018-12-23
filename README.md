@@ -1,6 +1,6 @@
 # waterfall-sinanews
 # 预览地址
-https://xuchuguo.github.io/waterfall-sinanews/index.html
+http://js.jirengu.com/zuduw/1/
 ## 懒加载原理
 为什么要懒加载：
 
